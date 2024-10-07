@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @622d 
-- 👀 I’m interested in ... learning a lot more. To help deshittify the internet.
-- 🌱 I’m currently learning the fundamentals (in CS50 & around)
-- 💞️ I’m looking to collaborate on...e day
+- 👀 I’m interested in learning to help deshittify the internet.
+- 🌱 I’m currently in noob mode. Learning Python, Flask, etc.
+- 💞️ I’m looking to collaborate one day
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
