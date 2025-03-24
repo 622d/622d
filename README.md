@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @622d 
+- 👋 Hi, I’m @622d | the d is for doug 
 - 👀 I’m interested in learning to help deshittify the internet.
 - 🌱 I’m currently in noob mode. Learning Python, Flask, etc.
 - 💞️ I’m looking to collaborate one day
